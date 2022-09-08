@@ -1,0 +1,8 @@
+.app{
+ max-width: 2000px;
+}
+
+.img{
+  width: 100%;
+  object-fit: contain;
+}

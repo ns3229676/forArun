@@ -1,0 +1,83 @@
+.bybit{
+    display: flex;
+    justify-content: center;
+}
+
+.bybit__image{
+    height: 685px;
+    object-fit: contain;
+}
+
+
+
+
+
+.bybit__first{
+    margin-left: -379px;
+    color: white;
+    margin-top: 144px;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 5px;
+}
+
+
+
+.bybit__second{
+    margin-left: -252px;
+    /* color: white; */
+    margin-top: -39px;
+    color: #20ad5b;
+    font-size: 12px;
+        
+}
+
+
+
+.bybit__third{
+    color: #20ad5b;
+    margin-left: -381px;
+    margin-top: 48px;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+
+.bybit__fourth{
+    margin-left: -277px;
+    color: orange;
+    font-size: 17px;
+    margin-top: -59px;
+}
+
+
+
+.bybit__fifth{
+    margin-left: -261px;
+    color: orange;
+    font-size: 17px;
+    margin-top: -8px;
+}
+
+.exclusive__rewards{
+    display: flex;
+    margin-top: 265px;
+    margin-left: -323px;
+    font-weight: 700;
+}
+
+.bybit__sixth__beforeCodedetails{
+    margin-right: 2%;
+}
+
+
+.bybit__code{
+    color: orange;
+    margin-right: 2%;
+}
+
+
+
+.bybit__code__afterdetails{
+
+}
